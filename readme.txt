@@ -1,7 +1,7 @@
 LIVE LINK : comming soon
 https://github.com/user-attachments/assets/80ed251e-0ad5-4498-bc9e-ac15ce8c4757
 
-
+Note: After sign-in you will get random amount from 1Rs---10,000 Rs
 
 file structure --->
 
